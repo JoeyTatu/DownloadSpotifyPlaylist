@@ -35,7 +35,7 @@
 # Upload playlist to new account
 1. Ensure you clear cache for Spotify.
 2. Log into your NEW Spotify account.
-3. Go to the file `importPlaylist.py`
+3. Go to the file `import_playlist.py`
 4. Create a new app in your new account to get your Client ID and Client Secret.
    <br>(Do not use the other ones, as they are for the other account only!!!)
 5. Add your new Client ID into the `CLIENT_ID` section
@@ -43,5 +43,5 @@
 7. Go to [spotify.com/account/profile/](https://www.spotify.com/account/profile/) to get your username
 8. Add your username to `NEW_ACCOUNT`
 9. Add a playlist name (of your choice) to `NEW_PLAYLIST_NAME`
-10. Run `importPlaylist.py`.
+10. Run `import_playlist.py`.
 11. New playlist appears in Spotify.
