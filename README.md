@@ -17,7 +17,7 @@
 5. Go to (open.spotify.com)(https://open.spotify.com)
 6. Select your playlist
 7. From the URL, take the Playlist ID.
-   <br>For example: https://open.spotify.com/playlist/32zeeaKANoo9ZWuBdNc8VE
+   <br>For example: [https://open.spotify.com/playlist/32zeeaKANoo9ZWuBdNc8VE]()
    <br>Playlist ID is 32zeeaKANoo9ZWuBdNc8VE
 8. Add Playlist ID to `SOURCE_PLAYLIST_ID`
 9. Go to [spotify.com/account/profile/](https://www.spotify.com/account/profile/) to get your username
