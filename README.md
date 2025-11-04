@@ -14,7 +14,7 @@
 1. Go to the file `export_playlist.py`
 3. Add your Client ID into the `CLIENT_ID` section
 4. Add your Client Secret into the `CLIENT_SECRET` section
-5. Go to (open.spotify.com)(https://open.spotify.com)
+5. Go to [open.spotify.com](https://open.spotify.com)
 6. Select your playlist
 7. From the URL, take the Playlist ID.
    <br>For example: https:&#8203;//open.spotify.com/playlist/32zeeaKANoo9ZWuBdNc8VE
