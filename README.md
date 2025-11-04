@@ -17,8 +17,8 @@
 5. Go to (open.spotify.com)(https://open.spotify.com)
 6. Select your playlist
 7. From the URL, take the Playlist ID.
-   For example: https://open.spotify.com/playlist/32zeeaKANoo9ZWuBdNc8VE
-   Playlist ID is 32zeeaKANoo9ZWuBdNc8VE
+   <br>For example: https://open.spotify.com/playlist/32zeeaKANoo9ZWuBdNc8VE
+   <br>Playlist ID is 32zeeaKANoo9ZWuBdNc8VE
 8. Add Playlist ID to `SOURCE_PLAYLIST_ID`
 9. Go to [spotify.com/account/profile/](https://www.spotify.com/account/profile/) to get your username
 10. Add your username to `OLD_ACCOUNT`
@@ -30,7 +30,7 @@
 2. Log into your NEW Spotify account.
 3. Go to the file `importPlaylist.py`
 4. Create a new app in your new account to get your Client ID and Client Secret.
-  (Do not use the other ones, as they are for the other account only!!!)
+   <br>(Do not use the other ones, as they are for the other account only!!!)
 5. Add your new Client ID into the `CLIENT_ID` section
 6. Add your new Client Secret into the `CLIENT_SECRET` section
 7. Go to [spotify.com/account/profile/](https://www.spotify.com/account/profile/) to get your username
