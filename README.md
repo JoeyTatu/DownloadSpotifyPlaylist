@@ -1,5 +1,12 @@
 # DownloadSpotifyPlaylist
 
+<h3>What you need:</h3>
+<ul>
+   <li>Python</li>
+   <li>Install spotipy via pip</li>
+   <li>Editor like Visual Studio Code</li>
+</ul>
+
 # Getting your Client ID and Client Secret.
 1. Login into Spotify Developers and go to the Dashboard: (developer.spotify.com/dashboard)(https://developer.spotify.com/dashboard)
 2. Select "Create app"
