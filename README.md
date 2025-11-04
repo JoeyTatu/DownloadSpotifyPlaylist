@@ -4,7 +4,7 @@
 1. Login into Spotify Developers and go to the Dashboard: (developer.spotify.com/dashboard)(https://developer.spotify.com/dashboard)
 2. Select "Create app"
 3. Insert an app name and app description (anything you want)
-4. Set the Redirect URIs to http://127.0.0.1:8888/callback
+4. Set the Redirect URIs to http://&#8203;127.0.0.1:8888/callback
 5. Select "Web API" and "I understand and agree with Spotify's Developer Terms of Service and Design Guidelines"
 6. Select Save
 7. Copy and save your Client ID
@@ -17,7 +17,7 @@
 5. Go to (open.spotify.com)(https://open.spotify.com)
 6. Select your playlist
 7. From the URL, take the Playlist ID.
-   <br>For example: [https://open.spotify.com/playlist/32zeeaKANoo9ZWuBdNc8VE]()
+   <br>For example: https:&#8203;//open.spotify.com/playlist/32zeeaKANoo9ZWuBdNc8VE
    <br>Playlist ID is 32zeeaKANoo9ZWuBdNc8VE
 8. Add Playlist ID to `SOURCE_PLAYLIST_ID`
 9. Go to [spotify.com/account/profile/](https://www.spotify.com/account/profile/) to get your username
